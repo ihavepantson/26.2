@@ -1,0 +1,46 @@
+##########################################################
+#
+#  _____
+# |__  /___ _ __  _ __  _   _
+#   / // _ \ '_ \| '_ \| | | |
+#  / /|  __/ |_) | |_) | |_| |
+# /____\___| .__/| .__/ \__, |
+#          |_|   |_|    |___/
+#
+#    MaceControl Plugin by Zeppy
+#    Config file — please do not delete or modify badly
+#    GitHub - https://github.com/MrZeppy/MaceControl.git
+##########################################################
+
+# Maximum number of Maces allowed on server
+max-mace-count: 2
+
+# Permissions
+bypass-permission: "macecontrol.bypass"
+admin-permission: "macecontrol.admin"
+
+# Auto-save interval in minutes
+auto-save-interval-minutes: 5
+
+# Command cooldown in seconds
+mace-command-cooldown: 5
+
+# World restrictions
+worlds:
+  allowed-craft-worlds: []  # Empty = all worlds allowed
+  restricted-worlds: []     # Worlds where crafting is blocked
+
+# Item restrictions
+restrictions:
+  block-containers: true           # Block storing in chests, etc.
+  allow-ender-chest: false        # Allow ender chest storage
+  allow-shulker-boxes: false      # Allow shulker box storage
+  block-item-frames: true         # Block placing on item frames
+  block-armor-stands: true        # Block placing on armor stands
+  block-heavy-core-autocrafter: true  # Block heavy core automation
+  block-flower-pots: true       # Block placing into flower pots
+
+# Messages
+messages:
+  broadcast-destruction: true     # Announce when Mace is destroyed
+  broadcast-craft: true          # Announce when Mace is crafted

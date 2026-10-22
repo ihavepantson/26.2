@@ -1,0 +1,74 @@
+# ==========================================================
+# 🔁 IMPORTANT: Restart required!
+# Any changes made to this file will ONLY take effect
+# after a full server RESTART (not just /reload)
+# ==========================================================
+
+
+heart-item:
+  enabled: false
+  result:
+    type: NETHER_STAR #Item Type of the thing you crafted
+    amount: 1
+  slots:
+    1:
+      type: DIAMOND_BLOCK
+      amount: 1
+    2:
+      type: GOLD_BLOCK
+      amount: 1
+    3:
+      type: DIAMOND_BLOCK
+      amount: 1
+    4:
+      type: GOLD_BLOCK
+      amount: 1
+    5:
+      type: TOTEM_OF_UNDYING
+      amount: 1
+    6:
+      type: GOLD_BLOCK
+      amount: 1
+    7:
+      type: DIAMOND_BLOCK
+      amount: 1
+    8:
+      type: GOLD_BLOCK
+      amount: 1
+    9:
+      type: DIAMOND_BLOCK
+      amount: 1
+
+revive-beacon:
+  enabled: false
+  result:
+    type: BEACON #Revive beacon design
+    amount: 1
+  slots:
+    1:
+      type: GOLD_BLOCK
+      amount: 1
+    2:
+      type: TOTEM_OF_UNDYING
+      amount: 1
+    3:
+      type: GOLD_BLOCK
+      amount: 1
+    4:
+      type: DIAMOND_BLOCK
+      amount: 1
+    5:
+      type: OMINOUS_TRIAL_KEY
+      amount: 1
+    6:
+      type: DIAMOND_BLOCK
+      amount: 1
+    7:
+      type: GOLD_BLOCK
+      amount: 1
+    8:
+      type: HEART_OF_THE_SEA
+      amount: 1
+    9:
+      type: GOLD_BLOCK
+      amount: 1

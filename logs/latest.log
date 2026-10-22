@@ -1,0 +1,80 @@
+[00:53:58] [ServerMain/INFO]: [bootstrap] Running Java 25 (OpenJDK 64-Bit Server VM 25.0.4.1+1-LTS; Microsoft Microsoft-14951822) on Linux 6.8.0-1064-azure (amd64)
+[00:53:58] [ServerMain/INFO]: [bootstrap] Loading Paper 26.2-128-ver/26.2@5749698 (2026-09-22T12:09:59Z) for Minecraft 26.2
+[00:53:58] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[00:53:59] [ServerMain/INFO]: [PluginInitializerManager] Initialized 4 plugins
+[00:53:59] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (4):
+ - EaglercraftXServer (1.1.1 Stable 1), Ender-PearlCooldown (1.0), LifeSteal (3), MaceControl (0.9.2)
+[00:54:07] [DataConverter MCTypeRegistry init thread/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[00:54:08] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[00:54:09] [DataConverter MCTypeRegistry init thread/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 1,930.9ms
+[00:54:14] [ServerMain/INFO]: Loaded 1585 recipes
+[00:54:14] [ServerMain/INFO]: Loaded 1688 advancements
+[00:54:14] [Server thread/INFO]: Starting minecraft server version 26.2
+[00:54:14] [Server thread/INFO]: Loading properties
+[00:54:14] [Server thread/INFO]: This server is running Paper version 26.2-128-ver/26.2@5749698 (2026-09-22T12:09:59Z) (Implementing API version 26.2.build.128-stable)
+[00:54:14] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[00:54:15] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[00:54:15] [Server thread/INFO]: Using 4 threads for Netty based IO
+[00:54:16] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[00:54:16] [Server thread/INFO]: Default game type: SURVIVAL
+[00:54:16] [Server thread/INFO]: Generating keypair
+[00:54:16] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:54:16] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[00:54:16] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[00:54:17] [Server thread/INFO]: [EaglerXServer] Loading server plugin EaglercraftXServer v1.1.1 Stable 1
+[00:54:17] [Server thread/INFO]: [EaglerXServer] (Platform: Bukkit)
+[00:54:17] [Server thread/WARN]: [EaglerXServer] Note: Its highly recommended to install EaglerXServer on BungeeCord or Velocity instead, you will have a much better experience
+[00:54:17] [Server thread/INFO]: [EaglerXServer] Server Name: "EaglercraftXServer"
+[00:54:18] [Server thread/ERROR]: [EaglerXServer] Could not load server icon: server-icon.png (Can't read input file!)
+[00:54:18] [Server thread/INFO]: [MaceControl] Loading server plugin MaceControl v0.9.2
+[00:54:18] [Server thread/INFO]: [Ender-PearlCooldown] Loading server plugin Ender-PearlCooldown v1.0
+[00:54:18] [Server thread/INFO]: [LifeSteal] Loading server plugin LifeSteal v3
+[00:54:18] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:54:18] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:54:18] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:54:18] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:54:18] [Server thread/INFO]: Preparing level "world"
+[00:54:19] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:overworld'...
+[00:54:19] [Server thread/INFO]: Preparing spawn area: 100%
+[00:54:19] [Server thread/INFO]: Prepared spawn area in 7 ms
+[00:54:19] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:the_nether'...
+[00:54:19] [Server thread/INFO]: Prepared spawn area in 5 ms
+[00:54:19] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:the_end'...
+[00:54:19] [Server thread/INFO]: Preparing spawn area: 100%
+[00:54:19] [Server thread/INFO]: Prepared spawn area in 2 ms
+[00:54:19] [Server thread/INFO]: Done preparing level "world" (1.360s)
+[00:54:19] [Server thread/INFO]: [EaglerXServer] Enabling EaglercraftXServer v1.1.1 Stable 1
+[00:54:19] [Server thread/INFO]: [EaglerXServer] AuthlibCompat smoke test passed (authlib 9.x record API (GameProfile record) detected).
+[00:54:19] [Server thread/INFO]: [EaglerXServer] Default listener injected into server channel successfully (PaperMC method)
+[00:54:19] [Server thread/INFO]: [EaglerXServer] Connecting to skin cache database "jdbc:sqlite:eagler_skins_cache.db"...
+[00:54:19] [Server thread/INFO]: [EaglerXServer] Connected to skin cache database successfully!
+[00:54:19] [eaglerxpaper-skin-prewarm-driver/INFO]: [EaglerXServer] [Skin Prewarm] Reading usercache.json...
+[00:54:19] [eaglerxpaper-skin-prewarm-driver/INFO]: [EaglerXServer] [Skin Prewarm] Pre-warming skins for 1 players (using 1 threads, max 2 concurrent)...
+[00:54:19] [Server thread/INFO]: [MaceControl] Enabling MaceControl v0.9.2
+[00:54:20] [Server thread/INFO]: [MaceControl] Configuration validation complete - no changes needed.
+[00:54:20] [Server thread/INFO]: [MaceControl] Loaded maceCount: 0
+[00:54:20] [Server thread/INFO]: [MaceControl] Loaded 0 mace ID mappings
+[00:54:20] [Server thread/INFO]: [MaceControl] Loaded 0 mace holders
+[00:54:20] [Server thread/INFO]: [MaceControl] Mace data loaded successfully.
+[00:54:20] [Server thread/INFO]: [MaceControl] Starting mace tracking refresh...
+[00:54:20] [Server thread/INFO]: [MaceControl] Mace tracking refresh complete. Total maces: 0, Active holders: 0, Dropped maces: 0
+[00:54:20] [Server thread/INFO]: [MaceControl] MaceControl Enabled! Total maces: 0, tracked holders: 0
+[00:54:20] [Server thread/INFO]: [Ender-PearlCooldown] Enabling Ender-PearlCooldown v1.0
+[00:54:20] [Server thread/INFO]: [Ender-PearlCooldown] EnderPearlCooldown enabled (cooldown=5s)
+[00:54:20] [Server thread/INFO]: [LifeSteal] Enabling LifeSteal v3
+[00:54:20] [Server thread/INFO]: [LifeSteal] LifeSteal Plugin has been enabled!
+[00:54:20] [Server thread/INFO]: [spark] Starting background profiler...
+[00:54:20] [EaglerXPaper IO-2-1/INFO]: [EaglerXServer] You are running the latest version of EaglerXServer
+[00:54:21] [eaglerxpaper-skin-prewarm/INFO]: [EaglerXServer] [Skin Prewarm] Progress: 1/1 (skins: 0, capes: 0)
+[00:54:21] [eaglerxpaper-skin-prewarm-driver/INFO]: [EaglerXServer] [Skin Prewarm] Done! Pre-warmed 0 skins and 0 capes for 1 players
+[00:54:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:54:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[00:54:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[00:54:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:54:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:54:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:54:21] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:54:21] [Server thread/INFO]: Running delayed init tasks
+[00:54:21] [Server thread/INFO]: Done (24.497s)! For help, type "help"
+[00:54:21] [Paper Async Task Handler Thread - 1/WARN]: *** You are running an outdated version of Minecraft, which is 2 releases and 6 builds behind!
+[00:54:21] [Paper Async Task Handler Thread - 1/WARN]: *** Please update to the latest stable version on https://papermc.io/downloads/paper ***

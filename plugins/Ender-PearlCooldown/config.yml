@@ -1,0 +1,3 @@
+# config.yml
+# Use suffix s for seconds, m for minutes
+cooldown: "5s"
